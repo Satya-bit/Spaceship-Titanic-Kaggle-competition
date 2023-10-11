@@ -12,7 +12,7 @@ While rounding Alpha Centauri en route to its first destination—the torrid 55 
 To help rescue crews and retrieve the lost passengers, you are challenged to predict which passengers were transported by the anomaly using records recovered from the spaceship’s damaged computer system.
 Help save them and change history!
 
-I have created a model which has a accuracy of 80% and my rank in the comeptition is near 500 out of 2500 teams. Did data cleaning and encoding. Also performed exploratory data analysis. Implemented catboost classifier and did some hyperparameter tuning.
+**I have created a model which has a accuracy of 80% and my rank in the comeptition is near 500 out of 2500 teams. Did data cleaning and encoding. Also performed exploratory data analysis. Implemented catboost classifier and did some hyperparameter tuning.**
 
 ![image](https://github.com/Satya-bit/Spaceship-Titanic-Kaggle-competition/assets/70309925/ef52acfd-f4c8-4f31-8cef-f861ceeff15a)
 
